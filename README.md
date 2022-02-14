@@ -16,3 +16,18 @@ Here are some ideas to get you started:
 -->
 
 Hello👋, my name is Omar Camilo Barros, I am currently a last semester student in systems engineering. I have been passionate about programming for a long time, since then I have not stopped doing it and therefore I have been acquiring experience in some languages and technologies. 
+
+⚡ **Programming Languages**
+* Javascript
+* Python
+* C++
+* Java
+
+⚡ **Technologies**
+- React
+- Tailwinds
+- NodeJs
+- Bootstrap
+- Flask
+- Vite
+- WebPack
