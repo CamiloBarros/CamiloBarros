@@ -1,7 +1,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='20'>  
 
 ### Hi there 👋, my name is Omar Camilo Barros 
-I am currently a last semester student in systems engineering. I have been passionate about programming for a long time, since then I have not stopped doing it and therefore I have been acquiring experience in some languages and technologies. 
+I am currently an engineer with a background in systems engineering. I have been passionate about programming for a long time, and since then, I have continuously engaged in it, acquiring experience in various languages and technologies.
 <!-- ### Skills-->
 
 
